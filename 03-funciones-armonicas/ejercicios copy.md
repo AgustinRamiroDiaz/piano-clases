@@ -26,11 +26,11 @@ En cambio FA está a 3:2 de DO, haciendo que sean mucho más armónicos (las ond
    - Dominante
 
 A (tonica)
-Bm
-C#m
+Bm (subdominante)
+C#m (tonica)
 D (subd)
 E (dom)
-F#m
+F#m (relative)
 G#m (disminuido)
 
 
